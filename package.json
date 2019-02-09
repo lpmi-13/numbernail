@@ -9,11 +9,11 @@
     "node": "8.2.1"
   },
   "dependencies": {
-    "body-parser": "~1.13.2",
-    "express": "~4.13.1",
-    "serve-favicon": "~2.3.0",
-    "request": "~2.69.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
     "http": "0.0.0",
-    "jade": "~1.11.0"
+    "jade": "~1.11.0",
+    "request": "^2.88.0",
+    "serve-favicon": "^2.5.0"
   }
 }
